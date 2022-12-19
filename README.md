@@ -3,6 +3,7 @@
 
 - 20221219
     - Airflow DAG List metadata (Dag_id, Schedule, Owner) 추출 schedule 등록
+    - Access s3 .gz file and compress 
 
 - 20221218 
     - refactored my `ValidInput` Python Class using chatGPT
