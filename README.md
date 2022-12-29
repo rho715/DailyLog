@@ -1,6 +1,9 @@
 # DailyLog
 날짜별로 내가 한 작업을 기록하려는 페이지... (얼마나 유지 가능할지가 관건이네..켘)
 
+- 20221229
+    - Airflow 에러시 재생성 하는 ipynb 파일 만들기 (notes & zzim)
+
 - 20221221
     - Airflow 에러 Logging에서 찾기
     - Azure Blob to GCS 파일 이름 변경 및 삭제 
