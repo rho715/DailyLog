@@ -1,6 +1,9 @@
 # DailyLog
 날짜별로 내가 한 작업을 기록하려는 페이지... (얼마나 유지 가능할지가 관건이네..켘)
 
+- 20230102
+    - `return` vs `print` 
+
 - 20221230
     - Python datetime & timezone 뽀개기
 
