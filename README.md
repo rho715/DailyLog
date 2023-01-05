@@ -1,6 +1,9 @@
 # DailyLog
 날짜별로 내가 한 작업을 기록하려는 페이지... (얼마나 유지 가능할지가 관건이네..켘)
 
+- 20230105
+    - Calculator.py : While & if/else & safe_divide
+
 - 20230104
     - RUNNING Queries 조회
     - RUNNING Query 캔슬 
