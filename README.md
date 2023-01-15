@@ -1,8 +1,12 @@
 # DailyLog
 날짜별로 내가 한 작업을 기록하려는 페이지... (얼마나 유지 가능할지가 관건이네..켘)
 
+- 20230115 
+    - VSCode 정리 내용 (shortcuts & extensions)
+
 - 20230114
     - VIM 정리 내용
+    - ADD EXTENSIONS.ipynb
 
 - 20230105
     - Calculator.py : While & if/else & safe_divide
