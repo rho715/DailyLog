@@ -1,6 +1,9 @@
 # DailyLog
 날짜별로 내가 한 작업을 기록하려는 페이지... (얼마나 유지 가능할지가 관건이네..켘)
 
+- 20230116
+    - camelCase to snake_case function
+
 - 20230115 
     - VSCode 정리 내용 (shortcuts & extensions)
 
